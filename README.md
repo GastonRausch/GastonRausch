@@ -37,7 +37,7 @@
   <section style="max-width: 900px; margin: 20px auto; padding: 20px; background-color: #f7f7f7; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.8rem; color: #007BFF;">💬 Connect With Me</h3>
     <ul style="list-style-type: none; padding-left: 0; font-size: 1.1rem;">
-      <li>📫 <strong>Email</strong>: <a href="mailto:gastonrasuchquinto@gmail.com" style="color: #007BFF; text-decoration: none;">gaston.rausch@tuix.ch</a></li>
+      <li>📫 <strong>Email</strong>: <a href="mailto:gastonrasuchquinto@gmail.com" style="color: #007BFF; text-decoration: none;">gastonrauschquinto@gmail.com</a></li>
       <li>🌟 <strong>GitHub</strong>: <a href="https://github.com/GastonRausch" style="color: #007BFF; text-decoration: none;">Gaston Rausch</a></li>
     </ul>
   </section>
